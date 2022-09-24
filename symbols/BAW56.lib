@@ -1,0 +1,27 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#(c) SnapEDA 2016 (snapeda.com)
+#This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA) with Design Exception 1.0
+#
+# BAW56
+#
+DEF BAW56 U 0 40 Y Y 1 L N
+F0 "U" 680 300 50 H V L BNN
+F1 "BAW56" 779 -494 50 H V L BNN
+F2 "SOT95P240X110-3N" 0 0 50 H I L BNN
+F3 "" 0 0 50 H I L BNN
+F4 "DIODES INC." 0 0 50 H I L BNN "SUPPLIER"
+F5 "-" 0 0 50 H I L BNN "OC_NEWARK"
+F6 "SOT-23-3" 0 0 50 H I L BNN "PACKAGE"
+F7 "BAW56" 0 0 50 H I L BNN "MPN"
+F8 "1902423" 0 0 50 H I L BNN "OC_FARNELL"
+DRAW
+P 2 0 0 5 200 200 200 -400 N
+S 200 -400 1600 200 0 0 5 f
+X ANODE 3 0 0 200 R 40 40 0 0 P 
+X CATHODE_2 1 1800 0 200 L 40 40 0 0 P 
+X CATHODE 2 1800 -200 200 L 40 40 0 0 P 
+ENDDRAW
+ENDDEF
+#
+# End Library
