@@ -1,0 +1,5 @@
+/home/timicasto/Projects/Hardware/LVDS-DP-Driver/QtDemo/cmake-build-debug/CMakeFiles/QtDemo.dir
+/home/timicasto/Projects/Hardware/LVDS-DP-Driver/QtDemo/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/timicasto/Projects/Hardware/LVDS-DP-Driver/QtDemo/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/timicasto/Projects/Hardware/LVDS-DP-Driver/QtDemo/cmake-build-debug/CMakeFiles/QtDemo_autogen_timestamp_deps.dir
+/home/timicasto/Projects/Hardware/LVDS-DP-Driver/QtDemo/cmake-build-debug/CMakeFiles/QtDemo_autogen.dir
